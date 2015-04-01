@@ -1,6 +1,6 @@
 # Cascadr
 
-This little AppleScript App will Cascade Google Chrome windows only.
+**This is a simple OSX App that will Cascade any application's windows.**
 
 I typically have a ton of windows open at the same time. After resizing these manually for years, I hacked the scripts below to create an AppleScript to do the window cascading for me.
 
@@ -12,6 +12,7 @@ I typically have a ton of windows open at the same time. After resizing these ma
 ## Future dev
 I might add these features:
 
-- Enable prompt at runtime to allow user to type in the application they want cascaded
-- Run from hot key
-- Create options window
+- [x] Enable prompt at runtime to allow user to type in the application they want cascaded
+- [ ] Make an Icon for this lil app 
+- [ ] Run from hot key
+- [ ] Create options window
